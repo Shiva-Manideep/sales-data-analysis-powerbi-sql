@@ -28,8 +28,12 @@ This project analyzes sales data to identify revenue trends, profitability, and 
 - Top Products by Sales
 - Regional Performance
 
-## 📈 Dashboard Output
-![Sales Dashboard](output/sales_dashboard.png)
+## 📊 Dashboard Output
+
+![](salesdashboard.png)
+
+![](salesdashboard1.png)
+
 
 ## 🤖 AI Usage
 - Power BI AI visuals for trend identification
